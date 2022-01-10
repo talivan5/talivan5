@@ -1,9 +1,7 @@
 ### Hola soy Ivan, y soy un desarrollador Front End👋
 <h4>Las tecnologias que uso</h4>
 
-<div>
-  <img src="https://c.tenor.com/ko4tpRh2FTcAAAAi/mr-free-super-tux.gif">
-</div>
+<img align="center" src="https://c.tenor.com/ko4tpRh2FTcAAAAi/mr-free-super-tux.gif">
 <div>
   <img align="center" alt="Rafa-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Rafa-Ts" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
