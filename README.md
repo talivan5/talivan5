@@ -1,4 +1,4 @@
-### Hola soy Ivan, y soy un desarrollador Front End👋
+### Hola soy Ivan, y soy un desarrollador Full Stack👋
 <h4>Las tecnologias que uso</h4>
 
 <img align="center" src="https://c.tenor.com/ko4tpRh2FTcAAAAi/mr-free-super-tux.gif">
